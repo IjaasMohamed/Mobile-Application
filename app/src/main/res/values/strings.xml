@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labsheet03</string>
+    <string name="lblTopic">Calculate Age</string>
+    <string name="tbInputNumber">Enter Birth Year</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="lbAns">Your answer will appear here</string>
+</resources>
